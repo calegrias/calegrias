@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calegrias
-- 👀 I’m interested in Computer Vision, Python, Raspberry Pi
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Computer Vision, Python, Raspberry Pi, Linux, and more
+- 🌱 I’m always learning 
 
 
 <!---
